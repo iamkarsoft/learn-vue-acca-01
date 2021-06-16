@@ -16,7 +16,7 @@
 </template>
 <script>
 export default {
-    props: ['title','resource','link'],
+    props: ['title','resource','link','description'],
     };
 </script>
 
